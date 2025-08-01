@@ -1,0 +1,2 @@
+it is a kind of project through which i justlearned the basics of javascript 
+# a small description about this project.
